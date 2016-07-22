@@ -1,2 +1,2 @@
-# ideicon
-iconset
+# ideicon - iconset
+基礎のアイコンセット

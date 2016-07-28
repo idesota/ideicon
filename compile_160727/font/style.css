@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?oxdte7');
-  src:  url('fonts/icomoon.eot?oxdte7#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?oxdte7') format('truetype'),
-    url('fonts/icomoon.woff?oxdte7') format('woff'),
-    url('fonts/icomoon.svg?oxdte7#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?dbo2mz');
+  src:  url('fonts/icomoon.eot?dbo2mz#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dbo2mz') format('truetype'),
+    url('fonts/icomoon.woff?dbo2mz') format('woff'),
+    url('fonts/icomoon.svg?dbo2mz#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -718,5 +718,77 @@
 }
 .icon-file3-28:before {
   content: "\e9e5";
+}
+.icon-file4-01:before {
+  content: "\e9e6";
+}
+.icon-file4-02:before {
+  content: "\e9e7";
+}
+.icon-file4-03:before {
+  content: "\e9e8";
+}
+.icon-file4-04:before {
+  content: "\e9e9";
+}
+.icon-file4-05:before {
+  content: "\e9ea";
+}
+.icon-file4-06:before {
+  content: "\e9eb";
+}
+.icon-file4-07:before {
+  content: "\e9ec";
+}
+.icon-file4-08:before {
+  content: "\e9ed";
+}
+.icon-file4-09:before {
+  content: "\e9ee";
+}
+.icon-file4-10:before {
+  content: "\e9ef";
+}
+.icon-file4-11:before {
+  content: "\e9f0";
+}
+.icon-file4-12:before {
+  content: "\e9f1";
+}
+.icon-file4-13:before {
+  content: "\e9f2";
+}
+.icon-file4-14:before {
+  content: "\e9f3";
+}
+.icon-file4-15:before {
+  content: "\e9f4";
+}
+.icon-file4-16:before {
+  content: "\e9f5";
+}
+.icon-file4-17:before {
+  content: "\e9f6";
+}
+.icon-file4-18:before {
+  content: "\e9f7";
+}
+.icon-file4-19:before {
+  content: "\e9f8";
+}
+.icon-file4-20:before {
+  content: "\e9f9";
+}
+.icon-file4-21:before {
+  content: "\e9fa";
+}
+.icon-file4-22:before {
+  content: "\e9fb";
+}
+.icon-file4-23:before {
+  content: "\e9fc";
+}
+.icon-file4-24:before {
+  content: "\e9fd";
 }
 

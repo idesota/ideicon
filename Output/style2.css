@@ -1,0 +1,25 @@
+body{
+	background: #f0f0f0;
+}
+
+.glyph{
+
+  width: 6em;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  padding: 10px;
+  border-radius: 8px;
+  background: white;
+}
+
+.size1of2{
+  font-size: 12px;
+}
+
+.mls{
+  font-size: 14px;
+}
+
+[class^="icon-"], [class*=" icon-"]{
+  color:red;
+}
